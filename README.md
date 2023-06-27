@@ -1,7 +1,4 @@
-# ZhinengYugang
-嵌入式比赛
+# 智能鱼缸
 
-dsadsa
-
-测试分支
+全国嵌入式芯片大赛
 
